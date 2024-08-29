@@ -1,0 +1,50 @@
+C:\Users\yusuf\source\repos\Motokurye\Motokurye\bin\Debug\Motokurye.exe.config
+C:\Users\yusuf\source\repos\Motokurye\Motokurye\bin\Debug\Motokurye.exe
+C:\Users\yusuf\source\repos\Motokurye\Motokurye\bin\Debug\Motokurye.pdb
+C:\Users\yusuf\source\repos\Motokurye\Motokurye\obj\Debug\Motokurye.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Motokurye\Motokurye\obj\Debug\Motokurye.csproj.SuggestedBindingRedirects.cache
+C:\Users\yusuf\source\repos\Motokurye\Motokurye\obj\Debug\Motokurye.Form1.resources
+C:\Users\yusuf\source\repos\Motokurye\Motokurye\obj\Debug\Motokurye.Properties.Resources.resources
+C:\Users\yusuf\source\repos\Motokurye\Motokurye\obj\Debug\Motokurye.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\Motokurye\Motokurye\obj\Debug\Motokurye.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Motokurye\Motokurye\obj\Debug\Motokurye.exe
+C:\Users\yusuf\source\repos\Motokurye\Motokurye\obj\Debug\Motokurye.pdb
+C:\Users\yusuf\source\repos\Motokurye\Motokurye\obj\Debug\Motokurye.Form2.resources
+C:\Users\yusuf\source\repos\Motokurye\Motokurye\obj\Debug\Motokurye.Form3.resources
+C:\Users\yusuf\source\repos\Motokurye\Motokurye\obj\Debug\Motokurye.Form4.resources
+C:\Users\yusuf\source\repos\Motokurye\Motokurye\obj\Debug\Motokurye.Form5.resources
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\bin\Debug\MotorkuryeDataSet.Designer.cs
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\bin\Debug\MotorkuryeDataSet1.Designer.cs
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\bin\Debug\MotorkuryeDataSet2.Designer.cs
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\bin\Debug\MotorkuryeDataSet3.Designer.cs
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\bin\Debug\MotorkuryeDataSet4.Designer.cs
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\bin\Debug\MotorkuryeDataSet.xsc
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\bin\Debug\MotorkuryeDataSet.xsd
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\bin\Debug\MotorkuryeDataSet.xss
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\bin\Debug\MotorkuryeDataSet1.xsc
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\bin\Debug\MotorkuryeDataSet1.xsd
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\bin\Debug\MotorkuryeDataSet1.xss
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\bin\Debug\MotorkuryeDataSet2.xsc
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\bin\Debug\MotorkuryeDataSet2.xsd
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\bin\Debug\MotorkuryeDataSet2.xss
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\bin\Debug\MotorkuryeDataSet3.xsc
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\bin\Debug\MotorkuryeDataSet3.xsd
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\bin\Debug\MotorkuryeDataSet3.xss
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\bin\Debug\MotorkuryeDataSet4.xsc
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\bin\Debug\MotorkuryeDataSet4.xsd
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\bin\Debug\MotorkuryeDataSet4.xss
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\bin\Debug\Motokurye.exe.config
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\bin\Debug\Motokurye.exe
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\bin\Debug\Motokurye.pdb
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\obj\Debug\Motokurye.csproj.AssemblyReference.cache
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\obj\Debug\Motokurye.csproj.SuggestedBindingRedirects.cache
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\obj\Debug\Motokurye.Form1.resources
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\obj\Debug\Motokurye.Form2.resources
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\obj\Debug\Motokurye.Form3.resources
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\obj\Debug\Motokurye.Form4.resources
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\obj\Debug\Motokurye.Form5.resources
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\obj\Debug\Motokurye.Properties.Resources.resources
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\obj\Debug\Motokurye.csproj.GenerateResource.cache
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\obj\Debug\Motokurye.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\obj\Debug\Motokurye.exe
+C:\Users\yusuf\Desktop\Motokurye kaynak kodları\Motokurye\obj\Debug\Motokurye.pdb
